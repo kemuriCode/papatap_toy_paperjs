@@ -1,3 +1,6 @@
+import { Path }  from 'paper';
+import { Howl } from 'howler';
+
 var keyData = {
   q: {
     sound: new Howl({
