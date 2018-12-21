@@ -6,7 +6,7 @@ Todo list
 
 `npm install paper`
 
-- []
+- [x] create html / css and js files
 - []
 - []
 - []
